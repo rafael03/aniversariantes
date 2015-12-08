@@ -1,0 +1,112 @@
+{
+    "title": {
+            "media": {
+                "caption":      "",
+                "credit":       "",
+                "url":          "data:image/png;base64,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",
+                "thumbnail":    ""
+            },
+            "text": {
+                "headline": "Dia 12 de Dezembro",
+                "text":     ""
+            }
+    },
+    "events": [
+        {
+            "start_date": {
+                "year":         "0",
+                "month":        "12",
+                "day":          "12",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+                "end_date": {
+                "year":         "0",
+                "month":        "12",
+                "day":          "12",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+            "media": {
+                "caption":      "",
+                "credit":       "",
+                "url":          "",
+                "thumbnail":    ""
+            },
+            "text": {
+                "headline": "Aniversariante do dia 12 de Dezembro",
+                "text":     ""
+            }
+        },
+        {
+            "start_date": {
+                "year":         "1098",
+                "month":        "12",
+                "day":          "12",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+                "end_date": {
+                "year":         "1098",
+                "month":        "12",
+                "day":          "12",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+            "media": {
+                "caption":      "",
+                "credit":       "",
+                "url":          "/apresentacao/TimelineJS3-master/compiled/examples/dia_12/img1.jpg",
+                "thumbnail":    ""
+            },
+            "text": {
+                "headline": "Conquista de Ma'arrat al-Numan",
+                "text":     "Conquista de Ma'arrat al-Numan pelos exércitos da Primeira Cruzada"
+            }
+        },
+        {
+            "start_date": {
+                "year":         "1787",
+                "month":        "12",
+                "day":          "12",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+                "end_date": {
+                "year":         "1787",
+                "month":        "12",
+                "day":          "12",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+            "media": {
+                "caption":      "",
+                "credit":       "",
+                "url":          "/apresentacao/TimelineJS3-master/compiled/examples/dia_12/Pensilvania.png",
+                "thumbnail":    ""
+            },
+            "text": {
+                "headline": "A Pensilvânia torna-se o segundo estado norte-americano, após ter ratificado a Constituição americana.",
+                "text":     ""
+            }
+        }
+    ]
+}
