@@ -159,7 +159,7 @@
                 "caption":      "",
                 "credit":       "",
                 "url":          "/apresentacao/TimelineJS3-master/compiled/examples/dia_12/Chernobyl.jpg",
-                "thumbnail":    ""
+                "thumbnail":    "/apresentacao/TimelineJS3-master/compiled/examples/dia_12/Chernobyl.jpg"
             },
             "text": {
                 "headline": "A Usina Nuclear de Chernobyl é desligada",
@@ -181,7 +181,7 @@
                 "caption":      "",
                 "credit":       "",
                 "url":          "/apresentacao/TimelineJS3-master/compiled/examples/dia_12/frank.jpg",
-                "thumbnail":    "/apresentacao/TimelineJS3-master/compiled/examples/dia_12/Chernobyl.jpg"
+                "thumbnail":    "/apresentacao/TimelineJS3-master/compiled/examples/dia_12/frank.jpg"
             },
             "text": {
                 "headline": "Nasce Frank Sinatra, ator e cantor norte-americano",

@@ -4,7 +4,7 @@
                 "caption":      "",
                 "credit":       "",
                 "url":          "/apresentacao/TimelineJS3-master/compiled/examples/dia_08/08.png",
-                "thumbnail":    ""
+                "thumbnail":    "/apresentacao/TimelineJS3-master/compiled/examples/dia_08/08.png"
             },
             "text": {
                 "headline": "Dia 08 de Dezembro",
@@ -27,7 +27,7 @@
                 "caption":      "",
                 "credit":       "",
                 "url":          "/apresentacao/TimelineJS3-master/compiled/examples/dia_08/guarulhos.jpg",
-                "thumbnail":    ""
+                "thumbnail":    "/apresentacao/TimelineJS3-master/compiled/examples/dia_08/guarulhos.jpg"
             },
             "text": {
                 "headline": "Fundação da cidade de Guarulhos - São Paulo - Brasil.",
@@ -49,7 +49,7 @@
                 "caption":      "",
                 "credit":       "",
                 "url":          "/apresentacao/TimelineJS3-master/compiled/examples/dia_08/monsenhor.jpg",
-                "thumbnail":    ""
+                "thumbnail":    "/apresentacao/TimelineJS3-master/compiled/examples/dia_08/monsenhor.jpg"
             },
             "text": {
                 "headline": "Fundação da cidade de Monsenhor Paulo, no sul de Minas Gerais - Brasil.",
@@ -71,7 +71,7 @@
                 "caption":      "",
                 "credit":       "",
                 "url":          "/apresentacao/TimelineJS3-master/compiled/examples/dia_08/maua.jpg",
-                "thumbnail":    ""
+                "thumbnail":    "/apresentacao/TimelineJS3-master/compiled/examples/dia_08/maua.jpg"
             },
             "text": {
                 "headline": "Fundação da cidade de Mauá - São Paulo - Brasil.",
@@ -93,7 +93,7 @@
                 "caption":      "",
                 "credit":       "",
                 "url":          "/apresentacao/TimelineJS3-master/compiled/examples/dia_08/diadema.jpg",
-                "thumbnail":    ""
+                "thumbnail":    "/apresentacao/TimelineJS3-master/compiled/examples/dia_08/diadema.jpg"
             },
             "text": {
                 "headline": "Fundação da cidade de Diadema - São Paulo - Brasil",
@@ -115,7 +115,7 @@
                 "caption":      "",
                 "credit":       "",
                 "url":          "/apresentacao/TimelineJS3-master/compiled/examples/dia_08/the-wall.png",
-                "thumbnail":    ""
+                "thumbnail":    "/apresentacao/TimelineJS3-master/compiled/examples/dia_08/the-wall.png"
             },
             "text": {
                 "headline": "Lançamento do álbum The Wall do Pink Floyd. ",
@@ -137,7 +137,7 @@
                 "caption":      "",
                 "credit":       "",
                 "url":          "/apresentacao/TimelineJS3-master/compiled/examples/dia_08/esquadrilha.png",
-                "thumbnail":    ""
+                "thumbnail":    "/apresentacao/TimelineJS3-master/compiled/examples/dia_08/esquadrilha.png"
             },
             "text": {
                 "headline": "Retorno das apresentações da esquadrilha da fumaça",
@@ -159,32 +159,10 @@
                 "caption":      "",
                 "credit":       "",
                 "url":          "/apresentacao/TimelineJS3-master/compiled/examples/dia_08/rainha.jpg",
-                "thumbnail":    ""
+                "thumbnail":    "/apresentacao/TimelineJS3-master/compiled/examples/dia_08/rainha.jp"
             },
             "text": {
                 "headline": "Nasce Maria Stuart, Rainha da Escócia",
-                "text":     ""
-            }
-        },
-        {
-            "start_date": {
-                "year":         "1973",
-                "month":        "12",
-                "day":          "08",
-                "hour":         "",
-                "minute":       "",
-                "second":       "",
-                "millisecond":  "",
-                "format":       ""
-            },
-            "media": {
-                "caption":      "",
-                "credit":       "",
-                "url":          "/apresentacao/TimelineJS3-master/compiled/examples/dia_08/corey.jpg",
-                "thumbnail":    ""
-            },
-            "text": {
-                "headline": "Nasce Corey Todd Taylor, vocalista da banda Slipknot ",
                 "text":     ""
             }
         },
@@ -203,7 +181,7 @@
                 "caption":      "",
                 "credit":       "",
                 "url":          "/apresentacao/TimelineJS3-master/compiled/examples/dia_08/john.jpg",
-                "thumbnail":    ""
+                "thumbnail":    "/apresentacao/TimelineJS3-master/compiled/examples/dia_08/john.jpg"
             },
             "text": {
                 "headline": "Falecimento de John Lennon, músico e compositor britânico",
@@ -225,7 +203,7 @@
                 "caption":      "",
                 "credit":       "",
                 "url":          "/apresentacao/TimelineJS3-master/compiled/examples/dia_08/familia.jpg",
-                "thumbnail":    ""
+                "thumbnail":    "/apresentacao/TimelineJS3-master/compiled/examples/dia_08/familia.jp"
             },
             "text": {
                 "headline": "Dia da Família.",
@@ -247,7 +225,7 @@
                 "caption":      "",
                 "credit":       "",
                 "url":          "/apresentacao/TimelineJS3-master/compiled/examples/dia_08/justica.jpg",
-                "thumbnail":    ""
+                "thumbnail":    "/apresentacao/TimelineJS3-master/compiled/examples/dia_08/justica.jpg"
             },
             "text": {
                 "headline": "Dia da Justiça (feriado judiciário).",

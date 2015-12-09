@@ -4,7 +4,7 @@
                 "caption":      "",
                 "credit":       "",
                 "url":          "/apresentacao/TimelineJS3-master/compiled/examples/dia_07/07.png",
-                "thumbnail":    ""
+                "thumbnail":    "/apresentacao/TimelineJS3-master/compiled/examples/dia_07/07.png"
             },
             "text": {
                 "headline": "Dia 07 de Dezembro",
@@ -27,7 +27,7 @@
                 "caption":      "",
                 "credit":       "",
                 "url":          "/apresentacao/TimelineJS3-master/compiled/examples/dia_07/Delaware.png",
-                "thumbnail":    ""
+                "thumbnail":    "/apresentacao/TimelineJS3-master/compiled/examples/dia_07/Delaware.png"
             },
             "text": {
                 "headline": "Delaware torna-se o primeiro estado norte-americano, após ter ratificado a Constituição americana.",
@@ -49,7 +49,7 @@
                 "caption":      "",
                 "credit":       "",
                 "url":          "/apresentacao/TimelineJS3-master/compiled/examples/dia_07/rio.jpg",
-                "thumbnail":    ""
+                "thumbnail":    "/apresentacao/TimelineJS3-master/compiled/examples/dia_07/rio.jpg"
             },
             "text": {
                 "headline": "Abertura da navegação do rio Amazonas",
@@ -71,7 +71,7 @@
                 "caption":      "",
                 "credit":       "",
                 "url":          "/apresentacao/TimelineJS3-master/compiled/examples/dia_07/salario.jpg",
-                "thumbnail":    ""
+                "thumbnail":    "/apresentacao/TimelineJS3-master/compiled/examples/dia_07/salario.jpg"
             },
             "text": {
                 "headline": "Na França, uma nova lei fixa salários e condições de pagamento - Lei do salário mínimo.",
@@ -93,7 +93,7 @@
                 "caption":      "",
                 "credit":       "",
                 "url":          "/apresentacao/TimelineJS3-master/compiled/examples/dia_07/plano.jpg",
-                "thumbnail":    ""
+                "thumbnail":    "/apresentacao/TimelineJS3-master/compiled/examples/dia_07/plano.jpg"
             },
             "text": {
                 "headline": "O Plano Piloto de Brasília é declarado Patrimônio Cultural da Humanidade pela UNESCO",
@@ -115,7 +115,7 @@
                 "caption":      "",
                 "credit":       "",
                 "url":          "/apresentacao/TimelineJS3-master/compiled/examples/dia_07/roberta-close.jpg",
-                "thumbnail":    ""
+                "thumbnail":    "/apresentacao/TimelineJS3-master/compiled/examples/dia_07/roberta-close.jpg"
             },
             "text": {
                 "headline": "Nascimento de Roberta Close, atriz brasileira.",
@@ -137,7 +137,7 @@
                 "caption":      "",
                 "credit":       "",
                 "url":          "/apresentacao/TimelineJS3-master/compiled/examples/dia_07/dia.jpg",
-                "thumbnail":    ""
+                "thumbnail":    "/apresentacao/TimelineJS3-master/compiled/examples/dia_07/dia.jpg"
             },
             "text": {
                 "headline": "Dia Internacional da Aviação Civil - Evento internacional criado para homenagear o setor - Comemorado no Brasil e Portugal. ",
