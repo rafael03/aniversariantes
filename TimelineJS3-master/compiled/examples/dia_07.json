@@ -1,0 +1,148 @@
+{
+    "title": {
+            "media": {
+                "caption":      "",
+                "credit":       "",
+                "url":          "/apresentacao/TimelineJS3-master/compiled/examples/dia_07/07.png",
+                "thumbnail":    ""
+            },
+            "text": {
+                "headline": "Dia 07 de Dezembro",
+                "text":     ""
+            }
+    },
+    "events": [
+        {
+            "start_date": {
+                "year":         "1787",
+                "month":        "12",
+                "day":          "07",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+            "media": {
+                "caption":      "",
+                "credit":       "",
+                "url":          "/apresentacao/TimelineJS3-master/compiled/examples/dia_07/Delaware.png",
+                "thumbnail":    ""
+            },
+            "text": {
+                "headline": "Delaware torna-se o primeiro estado norte-americano, após ter ratificado a Constituição americana.",
+                "text":     ""
+            }
+        },
+        {
+            "start_date": {
+                "year":         "1866",
+                "month":        "12",
+                "day":          "07",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+            "media": {
+                "caption":      "",
+                "credit":       "",
+                "url":          "/apresentacao/TimelineJS3-master/compiled/examples/dia_07/rio.jpg",
+                "thumbnail":    ""
+            },
+            "text": {
+                "headline": "Abertura da navegação do rio Amazonas",
+                "text":     ""
+            }
+        },
+        {
+            "start_date": {
+                "year":         "1909",
+                "month":        "12",
+                "day":          "07",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+            "media": {
+                "caption":      "",
+                "credit":       "",
+                "url":          "/apresentacao/TimelineJS3-master/compiled/examples/dia_07/salario.jpg",
+                "thumbnail":    ""
+            },
+            "text": {
+                "headline": "Na França, uma nova lei fixa salários e condições de pagamento - Lei do salário mínimo.",
+                "text":     ""
+            }
+        },
+        {
+            "start_date": {
+                "year":         "1987",
+                "month":        "12",
+                "day":          "07",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+            "media": {
+                "caption":      "",
+                "credit":       "",
+                "url":          "/apresentacao/TimelineJS3-master/compiled/examples/dia_07/plano.jpg",
+                "thumbnail":    ""
+            },
+            "text": {
+                "headline": "O Plano Piloto de Brasília é declarado Patrimônio Cultural da Humanidade pela UNESCO",
+                "text":     ""
+            }
+        },
+        {
+            "start_date": {
+                "year":         "1964",
+                "month":        "12",
+                "day":          "07",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+            "media": {
+                "caption":      "",
+                "credit":       "",
+                "url":          "/apresentacao/TimelineJS3-master/compiled/examples/dia_07/roberta-close.jpg",
+                "thumbnail":    ""
+            },
+            "text": {
+                "headline": "Nascimento de Roberta Close, atriz brasileira.",
+                "text":     ""
+            }
+        },
+        {
+            "start_date": {
+                "year":         "2014",
+                "month":        "12",
+                "day":          "07",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+            "media": {
+                "caption":      "",
+                "credit":       "",
+                "url":          "/apresentacao/TimelineJS3-master/compiled/examples/dia_07/dia.jpg",
+                "thumbnail":    ""
+            },
+            "text": {
+                "headline": "Dia Internacional da Aviação Civil - Evento internacional criado para homenagear o setor - Comemorado no Brasil e Portugal. ",
+                "text":     ""
+            }
+        }
+    ]
+}

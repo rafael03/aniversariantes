@@ -3,20 +3,20 @@
             "media": {
                 "caption":      "",
                 "credit":       "",
-                "url":          "/apresentacao/TimelineJS3-master/compiled/examples/dia_12/12.png",
+                "url":          "/apresentacao/TimelineJS3-master/compiled/examples/dia_08/08.png",
                 "thumbnail":    ""
             },
             "text": {
-                "headline": "Dia 12 de Dezembro",
+                "headline": "Dia 08 de Dezembro",
                 "text":     ""
             }
     },
     "events": [
         {
             "start_date": {
-                "year":         "1098",
+                "year":         "1560",
                 "month":        "12",
-                "day":          "12",
+                "day":          "08",
                 "hour":         "",
                 "minute":       "",
                 "second":       "",
@@ -26,151 +26,19 @@
             "media": {
                 "caption":      "",
                 "credit":       "",
-                "url":          "/apresentacao/TimelineJS3-master/compiled/examples/dia_12/img1.jpg",
-                "thumbnail":    "/apresentacao/TimelineJS3-master/compiled/examples/dia_12/img1.jpg"
-            },
-            "text": {
-                "headline": "Conquista de Ma'arrat al-Numan pelos exércitos da Primeira Cruzada.",
-                "text":     ""
-            }
-        },
-        {
-            "start_date": {
-                "year":         "1254",
-                "month":        "12",
-                "day":          "12",
-                "hour":         "",
-                "minute":       "",
-                "second":       "",
-                "millisecond":  "",
-                "format":       ""
-            },
-            "media": {
-                "caption":      "",
-                "credit":       "",
-                "url":          "/apresentacao/TimelineJS3-master/compiled/examples/dia_12/alexandre.jpg",
-                "thumbnail":    "/apresentacao/TimelineJS3-master/compiled/examples/dia_12/alexandre.jpg"
-            },
-            "text": {
-                "headline": "É eleito o Papa Alexandre IV, sucedendo ao Papa Inocêncio IV.",
-                "text":     ""
-            }
-        },
-        {
-            "start_date": {
-                "year":         "1787",
-                "month":        "12",
-                "day":          "12",
-                "hour":         "",
-                "minute":       "",
-                "second":       "",
-                "millisecond":  "",
-                "format":       ""
-            },
-            "media": {
-                "caption":      "",
-                "credit":       "",
-                "url":          "/apresentacao/TimelineJS3-master/compiled/examples/dia_12/Pensilvania.png",
-                "thumbnail":    "/apresentacao/TimelineJS3-master/compiled/examples/dia_12/Pensilvania.png"
-            },
-            "text": {
-                "headline": "A Pensilvânia torna-se o segundo estado norte-americano, após ter ratificado a Constituição americana.",
-                "text":     ""
-            }
-        },
-        {
-            "start_date": {
-                "year":         "1897",
-                "month":        "12",
-                "day":          "12",
-                "hour":         "",
-                "minute":       "",
-                "second":       "",
-                "millisecond":  "",
-                "format":       ""
-            },
-            "media": {
-                "caption":      "",
-                "credit":       "",
-                "url":          "/apresentacao/TimelineJS3-master/compiled/examples/dia_12/belo.jpg",
-                "thumbnail":    "/apresentacao/TimelineJS3-master/compiled/examples/dia_12/belo.jpg"
-            },
-            "text": {
-                "headline": "Inauguração da Cidade de Minas, que a partir de 1901 passa a se chamar Belo Horizonte. ",
-                "text":     ""
-            }
-        },
-        {
-            "start_date": {
-                "year":         "1958",
-                "month":        "12",
-                "day":          "12",
-                "hour":         "",
-                "minute":       "",
-                "second":       "",
-                "millisecond":  "",
-                "format":       ""
-            },
-            "media": {
-                "caption":      "",
-                "credit":       "",
-                "url":          "/apresentacao/TimelineJS3-master/compiled/examples/dia_12/guine.png",
-                "thumbnail":    "/apresentacao/TimelineJS3-master/compiled/examples/dia_12/guine.png"
-            },
-            "text": {
-                "headline": "Guiné é admitida como Estado-Membro da ONU. ",
-                "text":     ""
-            }
-        },
-        {
-            "start_date": {
-                "year":         "1963",
-                "month":        "12",
-                "day":          "12",
-                "hour":         "",
-                "minute":       "",
-                "second":       "",
-                "millisecond":  "",
-                "format":       ""
-            },
-            "media": {
-                "caption":      "",
-                "credit":       "",
-                "url":          "/apresentacao/TimelineJS3-master/compiled/examples/dia_12/quenia.jpg",
-                "thumbnail":    "/apresentacao/TimelineJS3-master/compiled/examples/dia_12/quenia.jp"
-            },
-            "text": {
-                "headline": "Proclamada a independência do Quénia.",
-                "text":     ""
-            }
-        },
-        {
-            "start_date": {
-                "year":         "2000",
-                "month":        "12",
-                "day":          "12",
-                "hour":         "",
-                "minute":       "",
-                "second":       "",
-                "millisecond":  "",
-                "format":       ""
-            },
-            "media": {
-                "caption":      "",
-                "credit":       "",
-                "url":          "/apresentacao/TimelineJS3-master/compiled/examples/dia_12/Chernobyl.jpg",
+                "url":          "/apresentacao/TimelineJS3-master/compiled/examples/dia_08/guarulhos.jpg",
                 "thumbnail":    ""
             },
             "text": {
-                "headline": "A Usina Nuclear de Chernobyl é desligada",
+                "headline": "Fundação da cidade de Guarulhos - São Paulo - Brasil.",
                 "text":     ""
             }
         },
         {
             "start_date": {
-                "year":         "1915",
+                "year":         "1948",
                 "month":        "12",
-                "day":          "12",
+                "day":          "08",
                 "hour":         "",
                 "minute":       "",
                 "second":       "",
@@ -180,19 +48,19 @@
             "media": {
                 "caption":      "",
                 "credit":       "",
-                "url":          "/apresentacao/TimelineJS3-master/compiled/examples/dia_12/frank.jpg",
-                "thumbnail":    "/apresentacao/TimelineJS3-master/compiled/examples/dia_12/Chernobyl.jpg"
+                "url":          "/apresentacao/TimelineJS3-master/compiled/examples/dia_08/monsenhor.jpg",
+                "thumbnail":    ""
             },
             "text": {
-                "headline": "Nasce Frank Sinatra, ator e cantor norte-americano",
+                "headline": "Fundação da cidade de Monsenhor Paulo, no sul de Minas Gerais - Brasil.",
                 "text":     ""
             }
         },
         {
             "start_date": {
-                "year":         "1930",
+                "year":         "1954",
                 "month":        "12",
-                "day":          "12",
+                "day":          "08",
                 "hour":         "",
                 "minute":       "",
                 "second":       "",
@@ -202,11 +70,143 @@
             "media": {
                 "caption":      "",
                 "credit":       "",
-                "url":          "/apresentacao/TimelineJS3-master/compiled/examples/dia_12/silvio.jpg",
-                "thumbnail":    "/apresentacao/TimelineJS3-master/compiled/examples/dia_12/silvio.jpg"
+                "url":          "/apresentacao/TimelineJS3-master/compiled/examples/dia_08/maua.jpg",
+                "thumbnail":    ""
             },
             "text": {
-                "headline": "Nasce Sílvio Santos, apresentador e empresário brasileiro.",
+                "headline": "Fundação da cidade de Mauá - São Paulo - Brasil.",
+                "text":     ""
+            }
+        },
+        {
+            "start_date": {
+                "year":         "1959",
+                "month":        "12",
+                "day":          "08",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+            "media": {
+                "caption":      "",
+                "credit":       "",
+                "url":          "/apresentacao/TimelineJS3-master/compiled/examples/dia_08/diadema.jpg",
+                "thumbnail":    ""
+            },
+            "text": {
+                "headline": "Fundação da cidade de Diadema - São Paulo - Brasil",
+                "text":     ""
+            }
+        },
+        {
+            "start_date": {
+                "year":         "1979",
+                "month":        "12",
+                "day":          "08",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+            "media": {
+                "caption":      "",
+                "credit":       "",
+                "url":          "/apresentacao/TimelineJS3-master/compiled/examples/dia_08/the-wall.png",
+                "thumbnail":    ""
+            },
+            "text": {
+                "headline": "Lançamento do álbum The Wall do Pink Floyd. ",
+                "text":     ""
+            }
+        },
+        {
+            "start_date": {
+                "year":         "1983",
+                "month":        "12",
+                "day":          "08",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+            "media": {
+                "caption":      "",
+                "credit":       "",
+                "url":          "/apresentacao/TimelineJS3-master/compiled/examples/dia_08/esquadrilha.png",
+                "thumbnail":    ""
+            },
+            "text": {
+                "headline": "Retorno das apresentações da esquadrilha da fumaça",
+                "text":     ""
+            }
+        },
+        {
+            "start_date": {
+                "year":         "1542",
+                "month":        "12",
+                "day":          "08",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+            "media": {
+                "caption":      "",
+                "credit":       "",
+                "url":          "/apresentacao/TimelineJS3-master/compiled/examples/dia_08/rainha.jpg",
+                "thumbnail":    ""
+            },
+            "text": {
+                "headline": "Nasce Maria Stuart, Rainha da Escócia",
+                "text":     ""
+            }
+        },
+        {
+            "start_date": {
+                "year":         "1973",
+                "month":        "12",
+                "day":          "08",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+            "media": {
+                "caption":      "",
+                "credit":       "",
+                "url":          "/apresentacao/TimelineJS3-master/compiled/examples/dia_08/corey.jpg",
+                "thumbnail":    ""
+            },
+            "text": {
+                "headline": "Nasce Corey Todd Taylor, vocalista da banda Slipknot ",
+                "text":     ""
+            }
+        },
+        {
+            "start_date": {
+                "year":         "1980",
+                "month":        "12",
+                "day":          "08",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+            "media": {
+                "caption":      "",
+                "credit":       "",
+                "url":          "/apresentacao/TimelineJS3-master/compiled/examples/dia_08/john.jpg",
+                "thumbnail":    ""
+            },
+            "text": {
+                "headline": "Falecimento de John Lennon, músico e compositor britânico",
                 "text":     ""
             }
         },
@@ -214,7 +214,7 @@
             "start_date": {
                 "year":         "2015",
                 "month":        "12",
-                "day":          "12",
+                "day":          "08",
                 "hour":         "",
                 "minute":       "",
                 "second":       "",
@@ -224,14 +224,35 @@
             "media": {
                 "caption":      "",
                 "credit":       "",
-                "url":          "/apresentacao/TimelineJS3-master/compiled/examples/dia_12/crianca.jpg",
-                "thumbnail":    "/apresentacao/TimelineJS3-master/compiled/examples/dia_12/crianca.jpg"
+                "url":          "/apresentacao/TimelineJS3-master/compiled/examples/dia_08/familia.jpg",
+                "thumbnail":    ""
             },
             "text": {
-                "headline": "Dia Internacional da Criança na Mídia - Criada pelo UNICEF",
+                "headline": "Dia da Família.",
+                "text":     ""
+            }
+        },
+        {
+            "start_date": {
+                "year":         "2015",
+                "month":        "12",
+                "day":          "08",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+            "media": {
+                "caption":      "",
+                "credit":       "",
+                "url":          "/apresentacao/TimelineJS3-master/compiled/examples/dia_08/justica.jpg",
+                "thumbnail":    ""
+            },
+            "text": {
+                "headline": "Dia da Justiça (feriado judiciário).",
                 "text":     ""
             }
         }
-        
     ]
 }
